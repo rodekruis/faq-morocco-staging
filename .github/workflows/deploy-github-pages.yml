@@ -92,7 +92,7 @@ env:
   #
   # The URL-part(s) to identify the region
   REGIONS: >-
-    faq-morocco
+    info
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
     FAQ Morocco
