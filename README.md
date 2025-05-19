@@ -1,8 +1,8 @@
-# Helpful Info: `<insert-instance-name>`
+# Helpful Info: `FAQ Morocco [Staging]`
 
 This repository contains deployment details of a [Helpful Information App](https://github.com/rodekruis/helpful-information)-instance.
 
-Public URL: <https://helpful-info.github.io/<insert-instance-name>>
+Public URL: <https://faq-morocco-staging.510.global/>
 
 ---
 
