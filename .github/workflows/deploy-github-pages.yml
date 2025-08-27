@@ -92,7 +92,8 @@ env:
   #
   # The URL-part(s) to identify the region
   REGIONS: >-
-    info
+    taroudant,
+    chichaoua,
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
     Taroudant,
