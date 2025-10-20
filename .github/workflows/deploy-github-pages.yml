@@ -94,14 +94,17 @@ env:
   REGIONS: >-
     taroudant,
     chichaoua,
+    marrakech el haouz,
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
     Taroudant,
     Chichaoua,
+    Marrakech El Haouz,
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
     11UxiACVXPmzViZhY9X5BSos81gPqDDYA4M6UQxc2J-o,
     1H2mJ2sKk0gXdtWxKwLkK9hlbPgmGFdcjeaD8GLPa2j0,
+    1NXhw5zCB8_qnkyGf9m1FS5FdeSR27Fb8uHmBhmR0WGc,
 
 # #############################################################################
 #
